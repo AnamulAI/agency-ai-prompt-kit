@@ -58,3 +58,5 @@ agency-ai-prompt-kit/
 │   └── offer-outline.md
 ├── LICENSE
 └── CONTRIBUTING.md
+
+If this repo helps you ship better client work with AI, consider starring the repo.
