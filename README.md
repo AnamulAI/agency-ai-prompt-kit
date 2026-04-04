@@ -1,45 +1,62 @@
-If this repo helps you ship better client work with AI, consider starring the repo.
 # Agency AI Prompt Kit
 
-A practical open-source prompt system for agencies, freelancers, creators, and AI service providers who want to ship client work faster with better structure.
+A practical open-source prompt system for agencies, freelancers, and AI service providers.
 
-This is not a random prompt dump.
-It is a workflow-focused prompt kit built for real service delivery.
+This repo is built for real service workflows, not random prompt dumping.
+
+It is especially useful for:
+- AI Podcast services
+- Website SEO Optimization offers
+- Single Product Landing Page services
+- Cold outreach workflows
+- Offer clarity and client discovery
+- Content repurposing for service-based marketing
+
+If this repo helps you ship better client work with AI, consider starring the repo.
+
+---
 
 ## Who this is for
 
-- Freelancers selling done-for-you AI services
-- Small agencies offering websites, SEO, content, or automation
-- Vibe coders building client projects fast
-- AI service providers who need better delivery systems
-- Personal brands packaging expertise into productized services
+- freelancers selling AI-powered services
+- small agencies
+- AI service providers
+- vibe coders
+- content and marketing service sellers
+- personal brands packaging expertise into services
 
-## Best-fit use cases for this repo
+---
 
-This starter kit is especially useful for:
+## What problem this solves
+
+Most prompt libraries are too generic.
+
+They may sound impressive, but they do not help much with real client delivery.
+
+This repo helps you:
+- structure client discovery faster
+- turn rough service ideas into clear offers
+- create better landing page messaging
+- write outreach with pain, solution, and outcome
+- plan AI podcast content
+- build SEO service page briefs
+- repurpose one idea into multiple content assets
+
+---
+
+## Best-fit use cases
+
+This repo is especially useful for:
 
 - **AI Podcast services** for local businesses, coaches, and personal brands
 - **Website SEO Optimization** offers for service businesses
 - **Single Product Landing Page** services for ecommerce and lead-gen funnels
 - **Cold outreach** for freelancers and agencies
-- **Offer clarity** using practical positioning, value framing, and client-delivery thinking
+- **Offer clarity** for productized services and done-for-you offers
 
-## What problem this solves
+---
 
-Most prompt libraries are too generic.
-They sound smart, but they do not help you actually deliver real work for clients.
-
-This repo helps you:
-
-- structure client discovery faster
-- create better service offers
-- write landing page copy
-- generate outreach angles
-- build AI podcast workflows
-- plan SEO content and service pages
-- turn rough ideas into deliverable-ready outputs
-
-## What's inside
+## Repository Structure
 
 ```bash
 agency-ai-prompt-kit/
