@@ -1,3 +1,4 @@
+If this repo helps you ship better client work with AI, consider starring the repo.
 # Agency AI Prompt Kit
 
 A practical open-source prompt system for agencies, freelancers, creators, and AI service providers who want to ship client work faster with better structure.
@@ -58,5 +59,3 @@ agency-ai-prompt-kit/
 │   └── offer-outline.md
 ├── LICENSE
 └── CONTRIBUTING.md
-
-If this repo helps you ship better client work with AI, consider starring the repo.
