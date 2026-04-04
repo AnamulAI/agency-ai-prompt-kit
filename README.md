@@ -12,7 +12,7 @@ It is especially useful for:
 - Offer clarity and client discovery
 - Content repurposing for service-based marketing
 
-If this repo helps you ship better client work with AI, consider starring the repo.
+If this repo helps you ship better client work with AI, consider giving it a star.
 
 ---
 
